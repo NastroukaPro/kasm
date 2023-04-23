@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Nastrouka Pro',
+    description: 'The test store from Nastrouka Pro',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://NastroukaPro.github.io/kasm/',
+    contactUrl: 'https://github.com/NastroukaPro/kasm/issues/',
   },
   reactStrictMode: true,
   swcMinify: true,
